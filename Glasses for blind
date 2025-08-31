@@ -1,0 +1,63 @@
+<div>&lt;!doctype html&gt;</div>
+<div>&lt;html lang=&quot;en&quot;&gt;</div>
+<div>&lt;head&gt;</div>
+<div>&nbsp; &lt;meta charset=&quot;utf-8&quot; /&gt;</div>
+<div>&nbsp; &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot; /&gt;</div>
+<div>&nbsp; &lt;title&gt;VisionAssist by Arjun &mdash; Smart Glasses for Independence&lt;/title&gt;</div>
+<div>&nbsp; &lt;meta name=&quot;description&quot; content=&quot;VisionAssist &mdash; premium smart glasses for blind and low-vision users. AI vision, navigation, OCR, and accessibility-first services.&quot; /&gt;</div>
+<div>&nbsp; &lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt;</div>
+<div>&nbsp; &lt;script defer src=&quot;script.js&quot;&gt;&lt;/script&gt;</div>
+<div>&lt;/head&gt;</div>
+<div>&lt;body&gt;</div>
+<div>&nbsp; &lt;header class=&quot;header&quot;&gt;</div>
+<div>&nbsp; &nbsp; &lt;div class=&quot;brand&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;div class=&quot;logo&quot;&gt;VA&lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &lt;h1&gt;VisionAssist&lt;/h1&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &lt;p class=&quot;subtitle&quot;&gt;By Arjun &mdash; Smart Glasses for Independence&lt;/p&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &lt;nav class=&quot;nav&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;a href=&quot;#features&quot;&gt;Features&lt;/a&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;a href=&quot;#services&quot;&gt;Services&lt;/a&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;a href=&quot;#preorder&quot;&gt;Preorder&lt;/a&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;a href=&quot;#reviews&quot;&gt;Reviews&lt;/a&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;a href=&quot;admin.html&quot; class=&quot;admin-link&quot;&gt;Owner Dashboard&lt;/a&gt;</div>
+<div>&nbsp; &nbsp; &lt;/nav&gt;</div>
+<div>&nbsp; &lt;/header&gt;</div>
+<div><br></div>
+<div>&nbsp; &lt;main&gt;</div>
+<div>&nbsp; &nbsp; &lt;section class=&quot;hero&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;div class=&quot;hero-left&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &lt;h2&gt;Premium &middot; Futuristic &middot; Accessible&lt;/h2&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &lt;p&gt;VisionAssist combines on-device AI, precise navigation, and privacy-first design to empower blind and low-vision users. Lightweight frames, haptic feedback, high-precision sensors and secure companion services.&lt;/p&gt;</div>
+<div><br></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;cta&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;a href=&quot;#preorder&quot; class=&quot;btn primary&quot;&gt;Preorder Now&lt;/a&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;a href=&quot;#demo&quot; class=&quot;btn ghost&quot;&gt;Try Demo&lt;/a&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;</div>
+<div><br></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &lt;ul class=&quot;quick-features&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;5MP Camera with IR sensor &mdash; better low-light detection&lt;/li&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;Dual GPS + Wi‑Fi modules for robust positioning&lt;/li&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;High-fidelity speakers &amp; configurable haptics&lt;/li&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li&gt;On-device OCR, object recognition &amp; offline navigation&lt;/li&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &lt;/ul&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &lt;div class=&quot;hero-right&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &lt;!-- 3D &apos;sweater&apos; glasses visualization --&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;glasses-scene&quot; aria-hidden=&quot;true&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;glasses&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;frame&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;lens left&quot;&gt;&lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;bridge&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;camera&quot; title=&quot;5MP camera with IR sensor&quot;&gt;&lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;lens right&quot;&gt;&lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;module left-module&quot; title=&quot;GPS + Wi-Fi module&nbsp;&amp;&nbsp;speaker&quot;&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;chip&quot;&gt;&lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;speaker&quot;&gt;&lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class=&quot;module right-module&quot; title=&quot;GPS module&nbsp;&amp;&nbsp;speaker&quot;&gt;</div>
+<div><br></div>
